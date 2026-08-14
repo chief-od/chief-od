@@ -13,7 +13,7 @@
 
 ### 👨🏾‍💻 About Me
 
-I'm a data professional working across machine learning, natural language processing, and data engineering. I enjoy turning messy, real-world data into models and tools that actually get used — from detecting sarcasm and toxicity in text to building out data pipelines and dashboards.
+I'm a data professional working across machine learning, natural language processing, and data engineering. I enjoy turning messy, real-world data into models and tools that actually get used, from detecting sarcasm and toxicity in text to building out data pipelines and dashboards.
 
 - 🔭 Currently building out projects in NLP and data engineering
 - 🌱 Sharpening my skills in data engineering fundamentals (Python-based pipelines)
