@@ -2,7 +2,7 @@
 
 # Hi, I'm Kwadwo Oduro Twum 👋
 
-### Data Scientist | Machine Learning & NLP | Data Engineering | Business Analyst | Business Intelligence |Predictive Analysis | AI | 
+### Data Scientist | Machine Learning & NLP | Data Engineering | Business Analyst | Business Intelligence | Predictive Analysis | AI | 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwadwo-oduro)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kwadwooduro303@gmail.com)
@@ -18,8 +18,6 @@ I'm a data professional working across machine learning, natural language proces
 - 🔭 Currently building out projects in NLP and data engineering
 - 🌱 Sharpening my skills in data engineering fundamentals (Python-based pipelines)
 - 🤝 Open to collaborating on data science, ML, and analytics projects
-- 💬 Ask me about NLP, Python, and data pipelines
-- 📫 Reach me at [Kwadwooduro303@gmail.com](mailto:Kwadwooduro303@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/kwadwo-oduro)
 
 ---
 
